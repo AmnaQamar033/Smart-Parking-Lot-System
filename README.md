@@ -26,7 +26,7 @@ A high-performance command-line application engineered in C++ that simulates an 
 
 ## Tech Stack
 
-* **Language:** C++ (C++11 or higher recommended)
+* **Language:** C++
 * **Paradigm:** Object-Oriented Programming (OOP)
 * **Storage:** Flat-file system (.txt)
 
